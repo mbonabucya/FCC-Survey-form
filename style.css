@@ -1,0 +1,96 @@
+html {
+    background-image: url("assets/back.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  #title
+  {
+      color: white;
+      text-align: center;
+  }
+#survey-form
+{
+  
+    
+    margin-left: 250px;
+    margin-right: 350px;
+    background-color: #001029;
+    opacity: 0.8;
+    border-radius: 1%;
+
+}
+label{
+    
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    
+}
+input
+{
+    
+    margin-left: 10px;
+    margin-top:0px;
+    width: 290px;
+    height: 20px;
+
+}
+p
+{
+    font-size: 24px;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 10px;
+    color: white;
+}
+#submit
+{
+    background-color: green;
+    width: 250px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-bottom: 50px;
+    color: white;
+}
+#text_area
+{
+    margin-left: 30px;
+}
+
+select
+{
+    font-size: large;
+    margin-left: 12px;
+    margin-top: 10px;
+    
+}
+
+.identity
+{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 22px;
+    color: white;
+}
+#description
+{
+    color: white;
+    font-size: 18px;
+    margin-top: -2px;
+}
+#name
+{
+    background-color: white;
+    width: 400px;
+}
+#email
+{
+    background-color: white;
+    width: 400px;
+}
+#number
+{
+    background-color: white;
+    width: 400px;
+}
